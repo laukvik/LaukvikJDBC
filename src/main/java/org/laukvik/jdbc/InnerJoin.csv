@@ -1,0 +1,6 @@
+Employee.LastName,Employee.DepartmentID,Department.DepartmentName,Department.DepartmentID
+Smith,34,Clerical,34
+Jones,33,Engineering,33
+Robinson,34,Clerical,34
+Steinberg,33,Engineering,33
+Rafferty,31,Sales,31

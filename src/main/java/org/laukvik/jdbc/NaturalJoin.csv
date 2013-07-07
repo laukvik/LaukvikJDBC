@@ -1,0 +1,6 @@
+DepartmentID,Employee.LastName,Department.DepartmentName
+34,Smith,Clerical
+33,Jones,Engineering
+34,Robinson,Clerical
+33,Steinberg,Engineering
+31,Rafferty,Sales
